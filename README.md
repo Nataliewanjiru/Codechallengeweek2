@@ -9,7 +9,7 @@ The website is used for voting for your favourite animal. Have fun making a vote
 <br><br>
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQciZKMaH5lqTf9_Vbu4cOpnthkZDEgs3V6QA&usqp=CAU" alt="Hammer and Nail" width="30"  />
+
 <h1>Technologies used </h1>
 
   - JavaScript 
