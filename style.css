@@ -1,0 +1,113 @@
+body{
+    margin:0;
+    background-image: url("https://images.unsplash.com/photo-1584581893475-7e64f711bdcf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    overflow-y: scroll;
+
+}
+
+#header{
+    background-color:#DCDCDC;
+    margin:0;
+    position: relative;
+    bottom:69px;
+    height: 160px;
+}
+
+
+#header h1{
+  position: relative;
+  top:42px;
+  left:45px;
+  font-size: 80px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#header ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+    text-align:right;
+}
+
+#header li{
+    display: inline-block;
+    font-size:20px;
+    position:relative;
+    bottom: 110px;
+
+}
+
+#header a{
+    color:#e74f4e;
+    width:100px;
+    display:block;
+    padding:25px 20px;
+    text-align: center;
+}
+
+a:hover{
+    background-color: bisque;
+}
+
+/*On the buttons for the name */
+
+.button{
+    width:20rem;
+    height: 20rem;
+    background-color: bisque;
+    position: relative;
+    left:150px;
+    top:12rem;
+    border-radius:20%;
+    font-size: 50px;
+}
+
+/* h2 styling */
+h3{
+    font-size: 34px;
+    position: relative;
+    left:8rem;
+    color: #DCDCDC;
+}
+
+/*Animals div*/
+
+#section{
+    background-color:white;
+    height:48rem;
+    width:28%;
+    position: relative;
+    top:3rem;
+    left:44rem;
+    display: none;
+    border: 17px solid bisque;
+}
+
+#section button{
+    width:10rem;
+    height:5rem;
+    position: relative;
+    top:42.5rem;
+    left:1.5rem;
+}
+
+
+#section img{
+    position: relative;
+    left:6rem;
+    bottom:2rem;
+    width:60%;
+}
+
+#section h2{
+    text-align: center;
+    position: relative;
+    bottom:3.5rem;
+    font-size:50px;
+}
+
+
